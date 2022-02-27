@@ -23,12 +23,12 @@ The tools script installs :-
 * to use tools `./tools.sh`
 
 ## 🙏 Credits:
-* Tomnomnom(https://github.com/tomnomnom)
-* ProjectDiscovery team(https://github.com/projectdiscovery)
-* Hakluke(https://github.com/hakluke)
-* Corben Leo(https://github.com/lc)
-* Michel Henriksen(https://github.com/michenriksen)
-* Somdev Sangwan (https://github.com/s0md3v)
+- [Tomnomnom](https://github.com/tomnomnom)
+- [ProjectDiscovery team](https://github.com/projectdiscovery)
+- [Hakluke](https://github.com/hakluke)
+- [Corben Leo](https://github.com/lc)
+- [Michel Henriksen](https://github.com/michenriksen)
+- [Somdev Sangwan](https://github.com/s0md3v)
 
 ## 📑 Notes:
 * In "gitGraber", please make sure to define your wordlist for scrapping the data.
